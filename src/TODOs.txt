@@ -4,4 +4,4 @@ TODO: investigar graficos de tortas
 TODO: definir si conviene tener una DB para la gestion de info de carpetas
 TODO: si hay DB, ver si se puede guardar como un archivo en la misma carpeta con la definicion de la base q se ejecute cada vez q se prende el sistema (capaz conviene crear una carpeta de config para la info necesaria para el sistema)
 TODO: crear proof of concept de manipulacion de carpetas
-TODO: iniciar repositorio en github y plantear uso de ramas
+TODO: plantear uso de ramas
